@@ -17,7 +17,7 @@
 		<div id="login">
 		<h1><a href="https://nl.wordpress.org/" title="Mogelijk gemaakt door WordPress" tabindex="-1">Mogelijk gemaakt door WordPress</a></h1>
 	
-<form name="loginform" id="loginform" action="wp-login.php.html" method="post">
+<form name="loginform" id="loginform" action="wp-login.php" method="post">
 	<p>
 		<label for="user_login">Gebruikersnaam of e-mailadres<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -35,7 +35,7 @@
 </form>
 
 <p id="nav">
-	<a href="wp-login.php%3Faction=lostpassword.html">Wachtwoord vergeten?</a>
+	<a href="wp-login.php?action=lostpassword">Wachtwoord vergeten?</a>
 </p>
 
 <script type="text/javascript">
