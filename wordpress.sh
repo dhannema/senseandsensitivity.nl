@@ -1,11 +1,20 @@
 #!/bin/bash
 
-git pull
+exe() { 
+    if [ "$DRY_RUN" == "" ]; then
+        echo "`date` \$ $@" ; "$@" ; 
+    else
+        echo "`date` \$ $@" ; 
+    fi
+}
 
-wget --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
+exe /opt/bin/git pull
 
-git config --global user.email "don.hannema@gmail.com"
-git config --global user.name "Don Hannema"
-git add .
-git commit -am "Auto commit"
-git push
+exe /usr/bin/wget -O --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
+
+exe /opt/bin/git status
+exe /opt/bin/git config user.email "don.hannema@gmail.com"
+exe /opt/bin/git config user.name "Don Hannema"
+exe /opt/bin/git add .
+exe /opt/bin/git commit -a -m "Auto commit"
+exe /opt/bin/git push

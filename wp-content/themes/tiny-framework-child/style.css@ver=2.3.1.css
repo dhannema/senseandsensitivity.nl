@@ -578,7 +578,6 @@ header .social-navigation {
 
 /* Enable custom logo in mobile view */
 
-/*
 .site-branding {
 	margin-top: 12px;
 	margin-top: 0.75rem;
@@ -603,7 +602,7 @@ header .social-navigation {
 .site-header .site-title {
 	text-align: left;
 }
-*/
+
 
 /* Tip06 - Custom headers for posts and pages. Uncomment following CSS rules to disable border and shadow on main header: */
 
@@ -807,6 +806,11 @@ body .entry-summary-top {
 /* Language specific styles */
 html:lang(lt-LT) .entry-date {
 	text-transform: capitalize;
+}
+
+/* Disable Login link */
+#site-admin-link {
+	display: none;
 }
 
 
