@@ -1,61 +1,11 @@
-Sun Apr  8 19:29:00 CEST 2018 $ /opt/bin/git pull
+Mon Apr  9 06:00:00 CEST 2018 $ /opt/bin/git pull
 Already up to date.
-Sun Apr  8 19:29:01 CEST 2018 $ /usr/bin/wget -O --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
+Mon Apr  9 06:00:02 CEST 2018 $ /usr/bin/wget -O --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
 Cannot specify both -k and -O if multiple URLs are given, or in combination
 with -p or -r. See the manual for details.
 
 Usage: wget [OPTION]... [URL]...
-Sun Apr  8 19:29:01 CEST 2018 $ /opt/bin/git status
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	modified:   contact/index.html
-	modified:   creatrix/index.html
-	modified:   feed/index.html
-	modified:   hoe-werkt-creatrix/index.html
-	modified:   hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/index.html
-	modified:   hoogsensitiviteit-hsp/hsp-zelftest/index.html
-	modified:   hoogsensitiviteit-hsp/index.html
-	modified:   hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/index.html
-	modified:   hoogsensitiviteit-hsp/wat-is-hsp/index.html
-	modified:   index.html
-	modified:   over-mij/index.html
-	new file:   reviews/index.html
-	modified:   voor-wie-is-creatrix/index.html
-	modified:   voordelen-creatrix/index.html
-	modified:   waarom-creatrix-wel-werkt/index.html
-	modified:   wat-kost-het-creatrix-programma/index.html
-	new file:   wordpress-1.log
-	new file:   wordpress.log
-	modified:   wordpress.sh
-	new file:   wp-content/plugins/strong-testimonials/public/css/custom.css@ver=4.9.5.css
-	new file:   wp-content/plugins/strong-testimonials/public/js/controller.min.js@ver=2.30.4
-	new file:   wp-content/plugins/strong-testimonials/public/js/lib/form-validation/form-validation.min.js@ver=2.30.4
-	new file:   wp-content/plugins/strong-testimonials/public/js/lib/validate/jquery.validate.min.js@ver=1.16.0
-	new file:   wp-content/plugins/strong-testimonials/public/js/lib/validate/localization/messages_nl.min.js@ver=4.9.5
-	new file:   wp-content/plugins/strong-testimonials/templates/default-form/form.css@ver=2.30.4.css
-	new file:   wp-content/plugins/strong-testimonials/templates/sense/content.css@ver=2.30.4.css
-	new file:   wp-content/plugins/strong-testimonials/templates/sense/img/quotes.png
-	modified:   wp-content/themes/tiny-framework-child/style.css@ver=2.3.1.css
-	new file:   wp-includes/js/jquery/jquery.form.min.js@ver=4.2.1
-	new file:   wp-includes/js/wp-embed.min.js@ver=4.9.5
-	new file:   wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Freviews%2F
-	new file:   wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Freviews%2F&format=xml
-	modified:   wp-login.php.html
-	modified:   wp-login.php@action=lostpassword.html
-
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	deleted:    wordpress-1.log
-	modified:   wordpress.log
-	modified:   wordpress.sh
-
-Sun Apr  8 19:29:01 CEST 2018 $ /opt/bin/git config user.email don.hannema@gmail.com
-Sun Apr  8 19:29:01 CEST 2018 $ /opt/bin/git config user.name Don Hannema
-Sun Apr  8 19:29:01 CEST 2018 $ /opt/bin/git add .
-Sun Apr  8 19:29:01 CEST 2018 $ /opt/bin/git commit -a -m Auto commit
+Mon Apr  9 06:00:02 CEST 2018 $ /opt/bin/git config user.email don.hannema@gmail.com
+Mon Apr  9 06:00:02 CEST 2018 $ /opt/bin/git config user.name Don Hannema
+Mon Apr  9 06:00:02 CEST 2018 $ /opt/bin/git add .
+Mon Apr  9 06:00:02 CEST 2018 $ /opt/bin/git commit -a -m Auto commit
