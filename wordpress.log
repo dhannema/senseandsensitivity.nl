@@ -1,11 +1,11 @@
-Mon Apr  9 06:00:00 CEST 2018 $ /opt/bin/git pull
+Tue Apr 10 06:00:00 CEST 2018 $ /opt/bin/git pull
 Already up to date.
-Mon Apr  9 06:00:02 CEST 2018 $ /usr/bin/wget -O --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
+Tue Apr 10 06:00:01 CEST 2018 $ /usr/bin/wget -O --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
 Cannot specify both -k and -O if multiple URLs are given, or in combination
 with -p or -r. See the manual for details.
 
 Usage: wget [OPTION]... [URL]...
-Mon Apr  9 06:00:02 CEST 2018 $ /opt/bin/git config user.email don.hannema@gmail.com
-Mon Apr  9 06:00:02 CEST 2018 $ /opt/bin/git config user.name Don Hannema
-Mon Apr  9 06:00:02 CEST 2018 $ /opt/bin/git add .
-Mon Apr  9 06:00:02 CEST 2018 $ /opt/bin/git commit -a -m Auto commit
+Tue Apr 10 06:00:01 CEST 2018 $ /opt/bin/git config user.email don.hannema@gmail.com
+Tue Apr 10 06:00:01 CEST 2018 $ /opt/bin/git config user.name Don Hannema
+Tue Apr 10 06:00:01 CEST 2018 $ /opt/bin/git add .
+Tue Apr 10 06:00:01 CEST 2018 $ /opt/bin/git commit -a -m Auto commit
