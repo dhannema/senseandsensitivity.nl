@@ -1,12 +1,17 @@
-Sun Apr 15 06:00:01 CEST 2018 $ /opt/bin/git pull
-Already up to date.
-Sun Apr 15 06:00:03 CEST 2018 $ /usr/bin/wget -O --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
+Mon Apr 16 06:00:01 CEST 2018 $ /opt/bin/git pull
+From github.com:dhannema/senseandsensitivity.nl
+   fdcaf1f..e17f5d7  master     -> origin/master
+Updating fdcaf1f..e17f5d7
+Fast-forward
+ wordpress.sh | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Mon Apr 16 06:00:03 CEST 2018 $ /usr/bin/wget -O --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
 Cannot specify both -k and -O if multiple URLs are given, or in combination
 with -p or -r. See the manual for details.
 
 Usage: wget [OPTION]... [URL]...
-Sun Apr 15 06:00:03 CEST 2018 $ sed -i s/\&copy 2018 Sense \& Sensitivity/\&copy 2018 Sense \& Sensitivity [Maintenance Mode]/ index.html
-Sun Apr 15 06:00:03 CEST 2018 $ /opt/bin/git config user.email don.hannema@gmail.com
-Sun Apr 15 06:00:03 CEST 2018 $ /opt/bin/git config user.name Don Hannema
-Sun Apr 15 06:00:03 CEST 2018 $ /opt/bin/git add .
-Sun Apr 15 06:00:03 CEST 2018 $ /opt/bin/git commit -a -m Auto commit
+Mon Apr 16 06:00:03 CEST 2018 $ sed -i s/\&copy 2018 Sense \& Sensitivity/\&copy 2018 Sense \& Sensitivity [Maintenance Mode]/ index.html
+Mon Apr 16 06:00:03 CEST 2018 $ /opt/bin/git config user.email don.hannema@gmail.com
+Mon Apr 16 06:00:03 CEST 2018 $ /opt/bin/git config user.name Don Hannema
+Mon Apr 16 06:00:03 CEST 2018 $ /opt/bin/git add .
+Mon Apr 16 06:00:03 CEST 2018 $ /opt/bin/git commit -a -m Auto commit
