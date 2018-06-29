@@ -1,23 +1,23 @@
-Thu Jun 28 06:00:00 CEST 2018 $ /opt/bin/git pull
+Fri Jun 29 06:00:00 CEST 2018 $ /opt/bin/git pull
 Already up to date.
-Thu Jun 28 06:00:01 CEST 2018 $ /usr/bin/wget --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
+Fri Jun 29 06:00:02 CEST 2018 $ /usr/bin/wget --mirror --restrict-file-names=windows --html-extension --convert-links --page-requisites --no-parent --no-check-certificate --cut-dirs=0 --no-host-directories https://senseandsensitivity.nl
 converted 'https://senseandsensitivity.nl' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl' (UTF-8)
 converted 'https://senseandsensitivity.nl/' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/' (UTF-8)
---2018-06-28 06:00:01--  https://senseandsensitivity.nl/
+--2018-06-29 06:00:02--  https://senseandsensitivity.nl/
 Resolving senseandsensitivity.nl (senseandsensitivity.nl)... 87.214.47.188
 Connecting to senseandsensitivity.nl (senseandsensitivity.nl)|87.214.47.188|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:02--  https://senseandsensitivity.nl/
+--2018-06-29 06:00:02--  https://senseandsensitivity.nl/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html'
 
-     0K .......... .......... ......                            206K=0.1s
+     0K .......... .......... ......                           97.8K=0.3s
 
-2018-06-28 06:00:02 (206 KB/s) - 'index.html' saved [26864]
+2018-06-29 06:00:03 (97.8 KB/s) - 'index.html' saved [26864]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -93,180 +93,180 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/fu
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
 Loading robots.txt; please ignore errors.
---2018-06-28 06:00:02--  https://senseandsensitivity.nl/robots.txt
+--2018-06-29 06:00:03--  https://senseandsensitivity.nl/robots.txt
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/plain]
 Saving to: 'robots.txt'
 
-     0K                                                        2.87M=0s
+     0K                                                        3.62M=0s
 
-2018-06-28 06:00:03 (2.87 MB/s) - 'robots.txt' saved [67]
+2018-06-29 06:00:03 (3.62 MB/s) - 'robots.txt' saved [67]
 
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/feed/
+--2018-06-29 06:00:03--  https://senseandsensitivity.nl/feed/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/rss+xml]
 Server file no newer than local file 'feed/index.html' -- not retrieving.
 
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/style.css?ver=2.3.1
+--2018-06-29 06:00:04--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/style.css?ver=2.3.1
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 115209 (113K) [text/css]
 Saving to: 'wp-content/themes/tiny-framework/style.css@ver=2.3.1.css'
 
-     0K .......... .......... .......... .......... .......... 44% 3.73M 0s
-    50K .......... .......... .......... .......... .......... 88% 6.74M 0s
-   100K .......... ..                                         100% 64.0M=0.02s
+     0K .......... .......... .......... .......... .......... 44% 3.77M 0s
+    50K .......... .......... .......... .......... .......... 88% 7.52M 0s
+   100K .......... ..                                         100% 59.0M=0.02s
 
-2018-06-28 06:00:03 (5.35 MB/s) - 'wp-content/themes/tiny-framework/style.css@ver=2.3.1.css' saved [115209/115209]
+2018-06-29 06:00:04 (5.59 MB/s) - 'wp-content/themes/tiny-framework/style.css@ver=2.3.1.css' saved [115209/115209]
 
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search.png' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search.png' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search.png' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search.png' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search-2x.png' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search-2x.png' (UTF-8)
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework-child/style.css?ver=2.3.1
+--2018-06-29 06:00:04--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework-child/style.css?ver=2.3.1
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 27018 (26K) [text/css]
 Saving to: 'wp-content/themes/tiny-framework-child/style.css@ver=2.3.1.css'
 
-     0K .......... .......... ......                          100% 6.76M=0.004s
+     0K .......... .......... ......                          100% 7.63M=0.003s
 
-2018-06-28 06:00:03 (6.76 MB/s) - 'wp-content/themes/tiny-framework-child/style.css@ver=2.3.1.css' saved [27018/27018]
+2018-06-29 06:00:04 (7.63 MB/s) - 'wp-content/themes/tiny-framework-child/style.css@ver=2.3.1.css' saved [27018/27018]
 
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/css/custom.css?ver=4.9.6
+--2018-06-29 06:00:04--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/css/custom.css?ver=4.9.6
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 117 [text/css]
 Saving to: 'wp-content/plugins/strong-testimonials/public/css/custom.css@ver=4.9.6.css'
 
-     0K                                                       100% 24.6M=0s
+     0K                                                       100% 26.3M=0s
 
-2018-06-28 06:00:03 (24.6 MB/s) - 'wp-content/plugins/strong-testimonials/public/css/custom.css@ver=4.9.6.css' saved [117/117]
+2018-06-29 06:00:04 (26.3 MB/s) - 'wp-content/plugins/strong-testimonials/public/css/custom.css@ver=4.9.6.css' saved [117/117]
 
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.js?ver=7.0.3
+--2018-06-29 06:00:04--  https://senseandsensitivity.nl/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.js?ver=7.0.3
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 21095 (21K) [application/javascript]
 Server file no newer than local file 'wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.js@ver=7.0.3' -- not retrieving.
 
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4
+--2018-06-29 06:00:04--  https://senseandsensitivity.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 97184 (95K) [application/javascript]
 Server file no newer than local file 'wp-includes/js/jquery/jquery.js@ver=1.12.4' -- not retrieving.
 
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+--2018-06-29 06:00:04--  https://senseandsensitivity.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 10056 (9.8K) [application/javascript]
 Server file no newer than local file 'wp-includes/js/jquery/jquery-migrate.min.js@ver=1.4.1' -- not retrieving.
 
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/wp-json/
+--2018-06-29 06:00:04--  https://senseandsensitivity.nl/wp-json/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:03--  https://senseandsensitivity.nl/wp-json/
+--2018-06-29 06:00:04--  https://senseandsensitivity.nl/wp-json/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/index.html'
 
-     0K .......... .......... .......... .......... .......... 4.08M
-    50K .......... .......                                     6.31M=0.01s
+     0K .......... .......... .......... .......... .......... 4.67M
+    50K .......... .......                                     13.3M=0.01s
 
-2018-06-28 06:00:04 (4.50 MB/s) - 'wp-json/index.html' saved [69366]
+2018-06-29 06:00:05 (5.63 MB/s) - 'wp-json/index.html' saved [69366]
 
---2018-06-28 06:00:04--  https://senseandsensitivity.nl/xmlrpc.php?rsd
+--2018-06-29 06:00:05--  https://senseandsensitivity.nl/xmlrpc.php?rsd
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:04--  https://senseandsensitivity.nl/xmlrpc.php?rsd
+--2018-06-29 06:00:05--  https://senseandsensitivity.nl/xmlrpc.php?rsd
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'xmlrpc.php@rsd'
 
-     0K                                                        37.2M=0s
+     0K                                                        89.2M=0s
 
-2018-06-28 06:00:04 (37.2 MB/s) - 'xmlrpc.php@rsd' saved [872]
+2018-06-29 06:00:05 (89.2 MB/s) - 'xmlrpc.php@rsd' saved [872]
 
---2018-06-28 06:00:04--  https://senseandsensitivity.nl/wp-includes/wlwmanifest.xml
+--2018-06-29 06:00:05--  https://senseandsensitivity.nl/wp-includes/wlwmanifest.xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 1045 (1.0K) [application/xml]
 Server file no newer than local file 'wp-includes/wlwmanifest.xml' -- not retrieving.
 
---2018-06-28 06:00:04--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/
+--2018-06-29 06:00:05--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:04--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/
+--2018-06-29 06:00:05--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2F'
 
-     0K ..                                                     20.5M=0s
+     0K ..                                                     32.8M=0s
 
-2018-06-28 06:00:05 (20.5 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2F' saved [2257]
+2018-06-29 06:00:06 (32.8 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2F' saved [2257]
 
---2018-06-28 06:00:05--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/&format=xml
+--2018-06-29 06:00:06--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:05--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/&format=xml
+--2018-06-29 06:00:06--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2F&format=xml'
 
-     0K ..                                                     2.10M=0.001s
+     0K ..                                                     2.11M=0.001s
 
-2018-06-28 06:00:05 (2.10 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2F&format=xml' saved [2341]
+2018-06-29 06:00:06 (2.11 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2F&format=xml' saved [2341]
 
---2018-06-28 06:00:05--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/cropped-1-01-1-32x32.png
+--2018-06-29 06:00:06--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/cropped-1-01-1-32x32.png
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 1052 (1.0K) [image/png]
 Server file no newer than local file 'wp-content/uploads/2018/03/cropped-1-01-1-32x32.png' -- not retrieving.
 
---2018-06-28 06:00:05--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/cropped-1-01-1-192x192.png
+--2018-06-29 06:00:06--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/cropped-1-01-1-192x192.png
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 11310 (11K) [image/png]
 Server file no newer than local file 'wp-content/uploads/2018/03/cropped-1-01-1-192x192.png' -- not retrieving.
 
---2018-06-28 06:00:05--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/cropped-1-01-1-180x180.png
+--2018-06-29 06:00:06--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/cropped-1-01-1-180x180.png
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 10418 (10K) [image/png]
 Server file no newer than local file 'wp-content/uploads/2018/03/cropped-1-01-1-180x180.png' -- not retrieving.
 
---2018-06-28 06:00:05--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/logo-horizontaal-2.png
+--2018-06-29 06:00:06--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/logo-horizontaal-2.png
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 34104 (33K) [image/png]
 Server file no newer than local file 'wp-content/uploads/2018/03/logo-horizontaal-2.png' -- not retrieving.
 
---2018-06-28 06:00:05--  https://senseandsensitivity.nl/creatrix/
+--2018-06-29 06:00:06--  https://senseandsensitivity.nl/creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:05--  https://senseandsensitivity.nl/creatrix/
+--2018-06-29 06:00:06--  https://senseandsensitivity.nl/creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'creatrix/index.html'
 
-     0K .......... .......... .....                             205K=0.1s
+     0K .......... .......... .....                             164K=0.2s
 
-2018-06-28 06:00:06 (205 KB/s) - 'creatrix/index.html' saved [26220]
+2018-06-29 06:00:07 (164 KB/s) - 'creatrix/index.html' saved [26220]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -346,20 +346,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:06--  https://senseandsensitivity.nl/voor-wie-is-creatrix/
+--2018-06-29 06:00:07--  https://senseandsensitivity.nl/voor-wie-is-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:06--  https://senseandsensitivity.nl/voor-wie-is-creatrix/
+--2018-06-29 06:00:07--  https://senseandsensitivity.nl/voor-wie-is-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'voor-wie-is-creatrix/index.html'
 
-     0K .......... .......... ......                            207K=0.1s
+     0K .......... .......... ......                            208K=0.1s
 
-2018-06-28 06:00:07 (207 KB/s) - 'voor-wie-is-creatrix/index.html' saved [26787]
+2018-06-29 06:00:08 (208 KB/s) - 'voor-wie-is-creatrix/index.html' saved [26787]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -434,12 +434,12 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:07--  https://senseandsensitivity.nl/hoe-werkt-creatrix/
+--2018-06-29 06:00:08--  https://senseandsensitivity.nl/hoe-werkt-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:07--  https://senseandsensitivity.nl/hoe-werkt-creatrix/
+--2018-06-29 06:00:08--  https://senseandsensitivity.nl/hoe-werkt-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
@@ -447,7 +447,7 @@ Saving to: 'hoe-werkt-creatrix/index.html'
 
      0K .......... .......... ......                            212K=0.1s
 
-2018-06-28 06:00:07 (212 KB/s) - 'hoe-werkt-creatrix/index.html' saved [27056]
+2018-06-29 06:00:08 (212 KB/s) - 'hoe-werkt-creatrix/index.html' saved [27056]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -522,20 +522,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:07--  https://senseandsensitivity.nl/voordelen-creatrix/
+--2018-06-29 06:00:08--  https://senseandsensitivity.nl/voordelen-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:07--  https://senseandsensitivity.nl/voordelen-creatrix/
+--2018-06-29 06:00:09--  https://senseandsensitivity.nl/voordelen-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'voordelen-creatrix/index.html'
 
-     0K .......... .......... ......                            208K=0.1s
+     0K .......... .......... ......                            205K=0.1s
 
-2018-06-28 06:00:08 (208 KB/s) - 'voordelen-creatrix/index.html' saved [26909]
+2018-06-29 06:00:09 (205 KB/s) - 'voordelen-creatrix/index.html' saved [26909]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -610,20 +610,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:08--  https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
+--2018-06-29 06:00:09--  https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:08--  https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
+--2018-06-29 06:00:09--  https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'waarom-creatrix-wel-werkt/index.html'
 
-     0K .......... .......... .......                           216K=0.1s
+     0K .......... .......... .......                           219K=0.1s
 
-2018-06-28 06:00:08 (216 KB/s) - 'waarom-creatrix-wel-werkt/index.html' saved [28319]
+2018-06-29 06:00:10 (219 KB/s) - 'waarom-creatrix-wel-werkt/index.html' saved [28319]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -698,12 +698,12 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:08--  https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
+--2018-06-29 06:00:10--  https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:09--  https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
+--2018-06-29 06:00:10--  https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
@@ -711,7 +711,7 @@ Saving to: 'wat-kost-het-creatrix-programma/index.html'
 
      0K .......... .......... .......                           215K=0.1s
 
-2018-06-28 06:00:09 (215 KB/s) - 'wat-kost-het-creatrix-programma/index.html' saved [27785]
+2018-06-29 06:00:10 (215 KB/s) - 'wat-kost-het-creatrix-programma/index.html' saved [27785]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -786,12 +786,12 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:09--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
+--2018-06-29 06:00:10--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:09--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
+--2018-06-29 06:00:10--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
@@ -799,7 +799,7 @@ Saving to: 'hoogsensitiviteit-hsp/index.html'
 
      0K .......... .......... .....                             204K=0.1s
 
-2018-06-28 06:00:10 (204 KB/s) - 'hoogsensitiviteit-hsp/index.html' saved [26322]
+2018-06-29 06:00:11 (204 KB/s) - 'hoogsensitiviteit-hsp/index.html' saved [26322]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -878,20 +878,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:10--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
+--2018-06-29 06:00:11--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:10--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
+--2018-06-29 06:00:11--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'hoogsensitiviteit-hsp/wat-is-hsp/index.html'
 
-     0K .......... .......... .......                           214K=0.1s
+     0K .......... .......... .......                           213K=0.1s
 
-2018-06-28 06:00:10 (214 KB/s) - 'hoogsensitiviteit-hsp/wat-is-hsp/index.html' saved [28252]
+2018-06-29 06:00:12 (213 KB/s) - 'hoogsensitiviteit-hsp/wat-is-hsp/index.html' saved [28252]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -967,20 +967,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:10--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
+--2018-06-29 06:00:12--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:11--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
+--2018-06-29 06:00:12--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/index.html'
 
-     0K .......... .......... ......                            209K=0.1s
+     0K .......... .......... ......                            212K=0.1s
 
-2018-06-28 06:00:11 (209 KB/s) - 'hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/index.html' saved [27558]
+2018-06-29 06:00:12 (212 KB/s) - 'hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/index.html' saved [27558]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -1055,20 +1055,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:11--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
+--2018-06-29 06:00:12--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:11--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
+--2018-06-29 06:00:12--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'hoogsensitiviteit-hsp/hsp-zelftest/index.html'
 
-     0K .......... .......... .......                           212K=0.1s
+     0K .......... .......... .......                           209K=0.1s
 
-2018-06-28 06:00:12 (212 KB/s) - 'hoogsensitiviteit-hsp/hsp-zelftest/index.html' saved [27923]
+2018-06-29 06:00:13 (209 KB/s) - 'hoogsensitiviteit-hsp/hsp-zelftest/index.html' saved [27923]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -1142,20 +1142,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:12--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
+--2018-06-29 06:00:13--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:12--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
+--2018-06-29 06:00:13--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/index.html'
 
-     0K .......... .......... .......                           208K=0.1s
+     0K .......... .......... .......                           209K=0.1s
 
-2018-06-28 06:00:12 (208 KB/s) - 'hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/index.html' saved [27761]
+2018-06-29 06:00:14 (209 KB/s) - 'hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/index.html' saved [27761]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -1230,20 +1230,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:12--  https://senseandsensitivity.nl/reviews/
+--2018-06-29 06:00:14--  https://senseandsensitivity.nl/reviews/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:13--  https://senseandsensitivity.nl/reviews/
+--2018-06-29 06:00:14--  https://senseandsensitivity.nl/reviews/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'reviews/index.html'
 
-     0K .......... .......... .......... .                      275K=0.1s
+     0K .......... .......... .......... .                      234K=0.1s
 
-2018-06-28 06:00:13 (275 KB/s) - 'reviews/index.html' saved [32097]
+2018-06-29 06:00:14 (234 KB/s) - 'reviews/index.html' saved [32097]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -1324,20 +1324,20 @@ converted 'https://senseandsensitivity.nl/wp-includes/js/jquery/jquery.form.min.
 converted 'https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/form-validation/form-validation.min.js?ver=2.30.4' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/form-validation/form-validation.min.js?ver=2.30.4' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/validate/localization/messages_nl.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/validate/localization/messages_nl.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:13--  https://senseandsensitivity.nl/over-mij/
+--2018-06-29 06:00:14--  https://senseandsensitivity.nl/over-mij/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:13--  https://senseandsensitivity.nl/over-mij/
+--2018-06-29 06:00:14--  https://senseandsensitivity.nl/over-mij/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'over-mij/index.html'
 
-     0K .......... .......... .......                           267K=0.1s
+     0K .......... .......... .......                           284K=0.1s
 
-2018-06-28 06:00:14 (267 KB/s) - 'over-mij/index.html' saved [28012]
+2018-06-29 06:00:15 (284 KB/s) - 'over-mij/index.html' saved [28012]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -1413,20 +1413,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:14--  https://senseandsensitivity.nl/contact/
+--2018-06-29 06:00:15--  https://senseandsensitivity.nl/contact/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:14--  https://senseandsensitivity.nl/contact/
+--2018-06-29 06:00:15--  https://senseandsensitivity.nl/contact/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'contact/index.html'
 
-     0K .......... .......... .....                             200K=0.1s
+     0K .......... .......... .....                             201K=0.1s
 
-2018-06-28 06:00:14 (200 KB/s) - 'contact/index.html' saved [25994]
+2018-06-29 06:00:16 (201 KB/s) - 'contact/index.html' saved [25994]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -1502,27 +1502,27 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:14--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/banner.jpg
+--2018-06-29 06:00:16--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/banner.jpg
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 162861 (159K) [image/jpeg]
 Server file no newer than local file 'wp-content/uploads/2018/03/banner.jpg' -- not retrieving.
 
---2018-06-28 06:00:14--  https://senseandsensitivity.nl/algemene-voorwaarden/
+--2018-06-29 06:00:16--  https://senseandsensitivity.nl/algemene-voorwaarden/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:15--  https://senseandsensitivity.nl/algemene-voorwaarden/
+--2018-06-29 06:00:16--  https://senseandsensitivity.nl/algemene-voorwaarden/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'algemene-voorwaarden/index.html'
 
-     0K .......... .......... .......... .......... ..........  288K
+     0K .......... .......... .......... .......... ..........  290K
     50K ....                                                   7881G=0.2s
 
-2018-06-28 06:00:15 (312 KB/s) - 'algemene-voorwaarden/index.html' saved [55431]
+2018-06-29 06:00:16 (314 KB/s) - 'algemene-voorwaarden/index.html' saved [55431]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -1596,20 +1596,20 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:15--  https://senseandsensitivity.nl/privacy-verklaring/
+--2018-06-29 06:00:16--  https://senseandsensitivity.nl/privacy-verklaring/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:15--  https://senseandsensitivity.nl/privacy-verklaring/
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/privacy-verklaring/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'privacy-verklaring/index.html'
 
-     0K .......... .......... .......... ...                    248K=0.1s
+     0K .......... .......... .......... ...                    247K=0.1s
 
-2018-06-28 06:00:16 (248 KB/s) - 'privacy-verklaring/index.html' saved [34472]
+2018-06-29 06:00:17 (247 KB/s) - 'privacy-verklaring/index.html' saved [34472]
 
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
@@ -1686,16 +1686,16 @@ converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/na
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6' (UTF-8)
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/wp-login.php
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/wp-login.php
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'wp-login.php.html'
 
-     0K ..                                                     27.5M=0s
+     0K ..                                                     3.01M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:16 (27.5 MB/s) - 'wp-login.php.html' saved [2842]
+2018-06-29 06:00:17 (3.01 MB/s) - 'wp-login.php.html' saved [2842]
 
 converted 'https://s.w.org' (ANSI_X3.4-1968) -> 'https://s.w.org' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-admin/load-styles.php?c=1&dir=ltr&load%5B%5D=dashicons,buttons,forms,l10n,login&ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,buttons,forms,l10n,login&ver=4.9.6' (UTF-8)
@@ -1706,317 +1706,317 @@ converted 'https://nl.wordpress.org/' (ANSI_X3.4-1968) -> 'https://nl.wordpress.
 converted 'https://senseandsensitivity.nl/wp-login.php' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-login.php' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-login.php?action=lostpassword' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-login.php?action=lostpassword' (UTF-8)
 converted 'https://senseandsensitivity.nl/' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/' (UTF-8)
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/navigation.js?ver=2.3.1
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/navigation.js?ver=2.3.1
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 2967 (2.9K) [application/javascript]
 Server file no newer than local file 'wp-content/themes/tiny-framework/js/navigation.js@ver=2.3.1' -- not retrieving.
 
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 870 [application/javascript]
 Server file no newer than local file 'wp-content/themes/tiny-framework/js/functions.js@ver=2.3.1' -- not retrieving.
 
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 1005 [application/javascript]
 Server file no newer than local file 'wp-content/themes/tiny-framework/js/skip-link-focus-fix.js@ver=2.3.1' -- not retrieving.
 
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/wp-includes/js/wp-embed.min.js?ver=4.9.6
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 1398 (1.4K) [application/javascript]
 Server file no newer than local file 'wp-includes/js/wp-embed.min.js@ver=4.9.6' -- not retrieving.
 
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search.png
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search.png
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 422 [image/png]
 Server file no newer than local file 'wp-content/themes/tiny-framework/images/icon-search.png' -- not retrieving.
 
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search-2x.png
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/wp-content/themes/tiny-framework/images/icon-search-2x.png
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 829 [image/png]
 Server file no newer than local file 'wp-content/themes/tiny-framework/images/icon-search-2x.png' -- not retrieving.
 
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/?p=29
+--2018-06-29 06:00:17--  https://senseandsensitivity.nl/?p=29
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/creatrix/ [following]
---2018-06-28 06:00:16--  https://senseandsensitivity.nl/creatrix/
+--2018-06-29 06:00:18--  https://senseandsensitivity.nl/creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=29.html'
 
-     0K .......... .......... .....                             205K=0.1s
+     0K .......... .......... .....                             206K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:17 (205 KB/s) - 'index.html@p=29.html' saved [26220]
+2018-06-29 06:00:18 (206 KB/s) - 'index.html@p=29.html' saved [26220]
 
---2018-06-28 06:00:17--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/creatrix/
+--2018-06-29 06:00:18--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:17--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/creatrix/
+--2018-06-29 06:00:18--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcreatrix%2F'
 
-     0K ..                                                     32.3M=0s
+     0K ..                                                     17.7M=0s
 
-2018-06-28 06:00:17 (32.3 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcreatrix%2F' saved [2226]
+2018-06-29 06:00:19 (17.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcreatrix%2F' saved [2226]
 
---2018-06-28 06:00:17--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/creatrix/&format=xml
+--2018-06-29 06:00:19--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/creatrix/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:18--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/creatrix/&format=xml
+--2018-06-29 06:00:19--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/creatrix/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcreatrix%2F&format=xml'
 
-     0K ..                                                     26.5M=0s
+     0K ..                                                     17.7M=0s
 
-2018-06-28 06:00:18 (26.5 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcreatrix%2F&format=xml' saved [2308]
+2018-06-29 06:00:19 (17.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcreatrix%2F&format=xml' saved [2308]
 
---2018-06-28 06:00:18--  https://senseandsensitivity.nl/?p=2
+--2018-06-29 06:00:19--  https://senseandsensitivity.nl/?p=2
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/voor-wie-is-creatrix/ [following]
---2018-06-28 06:00:18--  https://senseandsensitivity.nl/voor-wie-is-creatrix/
+--2018-06-29 06:00:19--  https://senseandsensitivity.nl/voor-wie-is-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=2.html'
 
-     0K .......... .......... ......                            210K=0.1s
+     0K .......... .......... ......                            203K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:18 (210 KB/s) - 'index.html@p=2.html' saved [26787]
+2018-06-29 06:00:20 (203 KB/s) - 'index.html@p=2.html' saved [26787]
 
---2018-06-28 06:00:18--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voor-wie-is-creatrix/
+--2018-06-29 06:00:20--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voor-wie-is-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:19--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voor-wie-is-creatrix/
+--2018-06-29 06:00:20--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voor-wie-is-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoor-wie-is-creatrix%2F'
 
-     0K ..                                                     26.2M=0s
+     0K ..                                                     22.1M=0s
 
-2018-06-28 06:00:19 (26.2 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoor-wie-is-creatrix%2F' saved [2289]
+2018-06-29 06:00:20 (22.1 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoor-wie-is-creatrix%2F' saved [2289]
 
---2018-06-28 06:00:19--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voor-wie-is-creatrix/&format=xml
+--2018-06-29 06:00:20--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voor-wie-is-creatrix/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:19--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voor-wie-is-creatrix/&format=xml
+--2018-06-29 06:00:21--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voor-wie-is-creatrix/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoor-wie-is-creatrix%2F&format=xml'
 
-     0K ..                                                     26.9M=0s
+     0K ..                                                     22.4M=0s
 
-2018-06-28 06:00:20 (26.9 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoor-wie-is-creatrix%2F&format=xml' saved [2371]
+2018-06-29 06:00:21 (22.4 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoor-wie-is-creatrix%2F&format=xml' saved [2371]
 
---2018-06-28 06:00:20--  https://senseandsensitivity.nl/?p=15
+--2018-06-29 06:00:21--  https://senseandsensitivity.nl/?p=15
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/hoe-werkt-creatrix/ [following]
---2018-06-28 06:00:20--  https://senseandsensitivity.nl/hoe-werkt-creatrix/
+--2018-06-29 06:00:21--  https://senseandsensitivity.nl/hoe-werkt-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=15.html'
 
-     0K .......... .......... ......                            214K=0.1s
+     0K .......... .......... ......                            207K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:20 (214 KB/s) - 'index.html@p=15.html' saved [27056]
+2018-06-29 06:00:22 (207 KB/s) - 'index.html@p=15.html' saved [27056]
 
---2018-06-28 06:00:20--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoe-werkt-creatrix/
+--2018-06-29 06:00:22--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoe-werkt-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:20--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoe-werkt-creatrix/
+--2018-06-29 06:00:22--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoe-werkt-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoe-werkt-creatrix%2F'
 
-     0K ..                                                     25.5M=0s
+     0K ..                                                     25.7M=0s
 
-2018-06-28 06:00:21 (25.5 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoe-werkt-creatrix%2F' saved [2279]
+2018-06-29 06:00:22 (25.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoe-werkt-creatrix%2F' saved [2279]
 
---2018-06-28 06:00:21--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoe-werkt-creatrix/&format=xml
+--2018-06-29 06:00:22--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoe-werkt-creatrix/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:21--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoe-werkt-creatrix/&format=xml
+--2018-06-29 06:00:22--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoe-werkt-creatrix/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoe-werkt-creatrix%2F&format=xml'
 
-     0K ..                                                     26.8M=0s
+     0K ..                                                     22.5M=0s
 
-2018-06-28 06:00:21 (26.8 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoe-werkt-creatrix%2F&format=xml' saved [2361]
+2018-06-29 06:00:23 (22.5 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoe-werkt-creatrix%2F&format=xml' saved [2361]
 
---2018-06-28 06:00:21--  https://senseandsensitivity.nl/?p=17
+--2018-06-29 06:00:23--  https://senseandsensitivity.nl/?p=17
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/voordelen-creatrix/ [following]
---2018-06-28 06:00:21--  https://senseandsensitivity.nl/voordelen-creatrix/
+--2018-06-29 06:00:23--  https://senseandsensitivity.nl/voordelen-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=17.html'
 
-     0K .......... .......... ......                            211K=0.1s
+     0K .......... .......... ......                            208K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:22 (211 KB/s) - 'index.html@p=17.html' saved [26909]
+2018-06-29 06:00:23 (208 KB/s) - 'index.html@p=17.html' saved [26909]
 
---2018-06-28 06:00:22--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voordelen-creatrix/
+--2018-06-29 06:00:23--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voordelen-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:22--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voordelen-creatrix/
+--2018-06-29 06:00:24--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voordelen-creatrix/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoordelen-creatrix%2F'
 
-     0K ..                                                     2.00M=0.001s
+     0K ..                                                     2.07M=0.001s
 
-2018-06-28 06:00:22 (2.00 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoordelen-creatrix%2F' saved [2288]
+2018-06-29 06:00:24 (2.07 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoordelen-creatrix%2F' saved [2288]
 
---2018-06-28 06:00:22--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voordelen-creatrix/&format=xml
+--2018-06-29 06:00:24--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voordelen-creatrix/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:23--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voordelen-creatrix/&format=xml
+--2018-06-29 06:00:24--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/voordelen-creatrix/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoordelen-creatrix%2F&format=xml'
 
-     0K ..                                                     2.40M=0.001s
+     0K ..                                                     27.4M=0s
 
-2018-06-28 06:00:23 (2.40 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoordelen-creatrix%2F&format=xml' saved [2370]
+2018-06-29 06:00:24 (27.4 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fvoordelen-creatrix%2F&format=xml' saved [2370]
 
---2018-06-28 06:00:23--  https://senseandsensitivity.nl/?p=19
+--2018-06-29 06:00:24--  https://senseandsensitivity.nl/?p=19
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/ [following]
---2018-06-28 06:00:23--  https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
+--2018-06-29 06:00:25--  https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=19.html'
 
-     0K .......... .......... .......                           215K=0.1s
+     0K .......... .......... .......                           217K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:24 (215 KB/s) - 'index.html@p=19.html' saved [28319]
+2018-06-29 06:00:25 (217 KB/s) - 'index.html@p=19.html' saved [28319]
 
---2018-06-28 06:00:24--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
+--2018-06-29 06:00:25--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:24--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
+--2018-06-29 06:00:25--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwaarom-creatrix-wel-werkt%2F'
 
-     0K ..                                                     25.1M=0s
+     0K ..                                                     26.4M=0s
 
-2018-06-28 06:00:24 (25.1 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwaarom-creatrix-wel-werkt%2F' saved [2311]
+2018-06-29 06:00:25 (26.4 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwaarom-creatrix-wel-werkt%2F' saved [2311]
 
---2018-06-28 06:00:24--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/&format=xml
+--2018-06-29 06:00:25--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:24--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/&format=xml
+--2018-06-29 06:00:26--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/waarom-creatrix-wel-werkt/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwaarom-creatrix-wel-werkt%2F&format=xml'
 
-     0K ..                                                     2.09M=0.001s
+     0K ..                                                     26.9M=0s
 
-2018-06-28 06:00:25 (2.09 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwaarom-creatrix-wel-werkt%2F&format=xml' saved [2393]
+2018-06-29 06:00:26 (26.9 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwaarom-creatrix-wel-werkt%2F&format=xml' saved [2393]
 
---2018-06-28 06:00:25--  https://senseandsensitivity.nl/?p=21
+--2018-06-29 06:00:26--  https://senseandsensitivity.nl/?p=21
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/ [following]
---2018-06-28 06:00:25--  https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
+--2018-06-29 06:00:26--  https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=21.html'
 
-     0K .......... .......... .......                           213K=0.1s
+     0K .......... .......... .......                           215K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:25 (213 KB/s) - 'index.html@p=21.html' saved [27785]
+2018-06-29 06:00:27 (215 KB/s) - 'index.html@p=21.html' saved [27785]
 
---2018-06-28 06:00:25--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
+--2018-06-29 06:00:27--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:26--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
+--2018-06-29 06:00:27--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwat-kost-het-creatrix-programma%2F'
 
-     0K ..                                                     24.9M=0s
+     0K ..                                                     26.9M=0s
 
-2018-06-28 06:00:26 (24.9 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwat-kost-het-creatrix-programma%2F' saved [2344]
+2018-06-29 06:00:27 (26.9 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwat-kost-het-creatrix-programma%2F' saved [2344]
 
---2018-06-28 06:00:26--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/&format=xml
+--2018-06-29 06:00:27--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:26--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/&format=xml
+--2018-06-29 06:00:27--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/wat-kost-het-creatrix-programma/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwat-kost-het-creatrix-programma%2F&format=xml'
 
-     0K ..                                                     2.52M=0.001s
+     0K ..                                                     26.8M=0s
 
-2018-06-28 06:00:26 (2.52 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwat-kost-het-creatrix-programma%2F&format=xml' saved [2426]
+2018-06-29 06:00:28 (26.8 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fwat-kost-het-creatrix-programma%2F&format=xml' saved [2426]
 
---2018-06-28 06:00:26--  https://senseandsensitivity.nl/?p=150
+--2018-06-29 06:00:28--  https://senseandsensitivity.nl/?p=150
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/hoogsensitiviteit-hsp/ [following]
---2018-06-28 06:00:27--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
+--2018-06-29 06:00:28--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
@@ -2025,178 +2025,178 @@ Saving to: 'index.html@p=150.html'
      0K .......... .......... .....                             205K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:27 (205 KB/s) - 'index.html@p=150.html' saved [26322]
+2018-06-29 06:00:28 (205 KB/s) - 'index.html@p=150.html' saved [26322]
 
---2018-06-28 06:00:27--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
+--2018-06-29 06:00:28--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
 Connecting to senseandsensitivity.nl (senseandsensitivity.nl)|87.214.47.188|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:27--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
+--2018-06-29 06:00:29--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2F'
 
-     0K ..                                                     27.4M=0s
+     0K ..                                                     32.0M=0s
 
-2018-06-28 06:00:27 (27.4 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2F' saved [2261]
+2018-06-29 06:00:29 (32.0 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2F' saved [2261]
 
---2018-06-28 06:00:27--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/&format=xml
+--2018-06-29 06:00:29--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:28--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/&format=xml
+--2018-06-29 06:00:29--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2F&format=xml'
 
-     0K ..                                                     29.8M=0s
+     0K ..                                                     32.6M=0s
 
-2018-06-28 06:00:28 (29.8 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2F&format=xml' saved [2343]
+2018-06-29 06:00:29 (32.6 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2F&format=xml' saved [2343]
 
---2018-06-28 06:00:28--  https://senseandsensitivity.nl/?p=155
+--2018-06-29 06:00:29--  https://senseandsensitivity.nl/?p=155
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/ [following]
---2018-06-28 06:00:28--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
+--2018-06-29 06:00:30--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=155.html'
 
-     0K .......... .......... .......                           214K=0.1s
+     0K .......... .......... .......                           212K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:29 (214 KB/s) - 'index.html@p=155.html' saved [28252]
+2018-06-29 06:00:30 (212 KB/s) - 'index.html@p=155.html' saved [28252]
 
---2018-06-28 06:00:29--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
+--2018-06-29 06:00:30--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:29--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
+--2018-06-29 06:00:30--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fwat-is-hsp%2F'
 
-     0K ..                                                     32.4M=0s
+     0K ..                                                     32.6M=0s
 
-2018-06-28 06:00:29 (32.4 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fwat-is-hsp%2F' saved [2309]
+2018-06-29 06:00:31 (32.6 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fwat-is-hsp%2F' saved [2309]
 
---2018-06-28 06:00:29--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/&format=xml
+--2018-06-29 06:00:31--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:29--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/&format=xml
+--2018-06-29 06:00:31--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/wat-is-hsp/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fwat-is-hsp%2F&format=xml'
 
-     0K ..                                                     29.7M=0s
+     0K ..                                                     29.9M=0s
 
-2018-06-28 06:00:30 (29.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fwat-is-hsp%2F&format=xml' saved [2389]
+2018-06-29 06:00:31 (29.9 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fwat-is-hsp%2F&format=xml' saved [2389]
 
---2018-06-28 06:00:30--  https://senseandsensitivity.nl/?p=157
+--2018-06-29 06:00:31--  https://senseandsensitivity.nl/?p=157
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/ [following]
---2018-06-28 06:00:30--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
+--2018-06-29 06:00:31--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=157.html'
 
-     0K .......... .......... ......                            213K=0.1s
+     0K .......... .......... ......                            206K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:30 (213 KB/s) - 'index.html@p=157.html' saved [27558]
+2018-06-29 06:00:32 (206 KB/s) - 'index.html@p=157.html' saved [27558]
 
---2018-06-28 06:00:30--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
+--2018-06-29 06:00:32--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:31--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
+--2018-06-29 06:00:32--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhoe-herken-je-hoogsensitiviteit%2F'
 
-     0K ..                                                     26.7M=0s
+     0K ..                                                     27.3M=0s
 
-2018-06-28 06:00:31 (26.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhoe-herken-je-hoogsensitiviteit%2F' saved [2372]
+2018-06-29 06:00:32 (27.3 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhoe-herken-je-hoogsensitiviteit%2F' saved [2372]
 
---2018-06-28 06:00:31--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/&format=xml
+--2018-06-29 06:00:32--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:31--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/&format=xml
+--2018-06-29 06:00:33--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hoe-herken-je-hoogsensitiviteit/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhoe-herken-je-hoogsensitiviteit%2F&format=xml'
 
-     0K ..                                                     2.62M=0.001s
+     0K ..                                                     24.2M=0s
 
-2018-06-28 06:00:31 (2.62 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhoe-herken-je-hoogsensitiviteit%2F&format=xml' saved [2452]
+2018-06-29 06:00:33 (24.2 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhoe-herken-je-hoogsensitiviteit%2F&format=xml' saved [2452]
 
---2018-06-28 06:00:31--  https://senseandsensitivity.nl/?p=159
+--2018-06-29 06:00:33--  https://senseandsensitivity.nl/?p=159
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/ [following]
---2018-06-28 06:00:32--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
+--2018-06-29 06:00:33--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=159.html'
 
-     0K .......... .......... .......                           209K=0.1s
+     0K .......... .......... .......                           213K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:32 (209 KB/s) - 'index.html@p=159.html' saved [27923]
+2018-06-29 06:00:33 (213 KB/s) - 'index.html@p=159.html' saved [27923]
 
---2018-06-28 06:00:32--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
+--2018-06-29 06:00:33--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:32--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
+--2018-06-29 06:00:34--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhsp-zelftest%2F'
 
-     0K ..                                                     26.7M=0s
+     0K ..                                                     24.7M=0s
 
-2018-06-28 06:00:33 (26.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhsp-zelftest%2F' saved [2313]
+2018-06-29 06:00:34 (24.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhsp-zelftest%2F' saved [2313]
 
---2018-06-28 06:00:33--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/&format=xml
+--2018-06-29 06:00:34--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:33--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/&format=xml
+--2018-06-29 06:00:34--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/hsp-zelftest/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhsp-zelftest%2F&format=xml'
 
-     0K ..                                                     25.2M=0s
+     0K ..                                                     25.3M=0s
 
-2018-06-28 06:00:33 (25.2 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhsp-zelftest%2F&format=xml' saved [2393]
+2018-06-29 06:00:35 (25.3 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fhsp-zelftest%2F&format=xml' saved [2393]
 
---2018-06-28 06:00:33--  https://senseandsensitivity.nl/?p=201
+--2018-06-29 06:00:35--  https://senseandsensitivity.nl/?p=201
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/ [following]
---2018-06-28 06:00:33--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
+--2018-06-29 06:00:35--  https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
@@ -2205,300 +2205,300 @@ Saving to: 'index.html@p=201.html'
      0K .......... .......... .......                           211K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:34 (211 KB/s) - 'index.html@p=201.html' saved [27761]
+2018-06-29 06:00:35 (211 KB/s) - 'index.html@p=201.html' saved [27761]
 
---2018-06-28 06:00:34--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
+--2018-06-29 06:00:35--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:34--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
+--2018-06-29 06:00:35--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fvoordelen-creatrix-bij-hoogsensitiviteit%2F'
 
-     0K ..                                                     25.5M=0s
+     0K ..                                                     1.78M=0.001s
 
-2018-06-28 06:00:34 (25.5 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fvoordelen-creatrix-bij-hoogsensitiviteit%2F' saved [2432]
+2018-06-29 06:00:36 (1.78 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fvoordelen-creatrix-bij-hoogsensitiviteit%2F' saved [2432]
 
---2018-06-28 06:00:34--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/&format=xml
+--2018-06-29 06:00:36--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:34--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/&format=xml
+--2018-06-29 06:00:36--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/hoogsensitiviteit-hsp/voordelen-creatrix-bij-hoogsensitiviteit/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fvoordelen-creatrix-bij-hoogsensitiviteit%2F&format=xml'
 
-     0K ..                                                     27.3M=0s
+     0K ..                                                     27.2M=0s
 
-2018-06-28 06:00:35 (27.3 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fvoordelen-creatrix-bij-hoogsensitiviteit%2F&format=xml' saved [2512]
+2018-06-29 06:00:36 (27.2 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fhoogsensitiviteit-hsp%2Fvoordelen-creatrix-bij-hoogsensitiviteit%2F&format=xml' saved [2512]
 
---2018-06-28 06:00:35--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/sense/content.css?ver=2.30.4
+--2018-06-29 06:00:36--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/sense/content.css?ver=2.30.4
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 8058 (7.9K) [text/css]
 Saving to: 'wp-content/plugins/strong-testimonials/templates/sense/content.css@ver=2.30.4.css'
 
-     0K .......                                               100% 13.8M=0.001s
+     0K .......                                               100% 4.62M=0.002s
 
-2018-06-28 06:00:35 (13.8 MB/s) - 'wp-content/plugins/strong-testimonials/templates/sense/content.css@ver=2.30.4.css' saved [8058/8058]
+2018-06-29 06:00:36 (4.62 MB/s) - 'wp-content/plugins/strong-testimonials/templates/sense/content.css@ver=2.30.4.css' saved [8058/8058]
 
 converted 'https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/sense/img/quotes.png' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/sense/img/quotes.png' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/sense/img/quotes.png' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/sense/img/quotes.png' (UTF-8)
---2018-06-28 06:00:35--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/default-form/form.css?ver=2.30.4
+--2018-06-29 06:00:36--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/default-form/form.css?ver=2.30.4
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 3381 (3.3K) [text/css]
 Saving to: 'wp-content/plugins/strong-testimonials/templates/default-form/form.css@ver=2.30.4.css'
 
-     0K ...                                                   100% 3.25M=0.001s
+     0K ...                                                   100% 33.3M=0s
 
-2018-06-28 06:00:35 (3.25 MB/s) - 'wp-content/plugins/strong-testimonials/templates/default-form/form.css@ver=2.30.4.css' saved [3381/3381]
+2018-06-29 06:00:36 (33.3 MB/s) - 'wp-content/plugins/strong-testimonials/templates/default-form/form.css@ver=2.30.4.css' saved [3381/3381]
 
---2018-06-28 06:00:35--  https://senseandsensitivity.nl/?p=279
+--2018-06-29 06:00:36--  https://senseandsensitivity.nl/?p=279
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/reviews/ [following]
---2018-06-28 06:00:35--  https://senseandsensitivity.nl/reviews/
+--2018-06-29 06:00:37--  https://senseandsensitivity.nl/reviews/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=279.html'
 
-     0K .......... .......... .......... .                      209K=0.2s
+     0K .......... .......... .......... .                      209K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:35 (209 KB/s) - 'index.html@p=279.html' saved [32097]
+2018-06-29 06:00:37 (209 KB/s) - 'index.html@p=279.html' saved [32097]
 
---2018-06-28 06:00:35--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/reviews/
+--2018-06-29 06:00:37--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/reviews/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:36--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/reviews/
+--2018-06-29 06:00:37--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/reviews/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Freviews%2F'
 
-     0K ..                                                     23.9M=0s
+     0K ..                                                     22.7M=0s
 
-2018-06-28 06:00:36 (23.9 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Freviews%2F' saved [2203]
+2018-06-29 06:00:38 (22.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Freviews%2F' saved [2203]
 
---2018-06-28 06:00:36--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/reviews/&format=xml
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/reviews/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:36--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/reviews/&format=xml
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/reviews/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Freviews%2F&format=xml'
 
-     0K ..                                                     24.9M=0s
+     0K ..                                                     2.10M=0.001s
 
-2018-06-28 06:00:37 (24.9 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Freviews%2F&format=xml' saved [2285]
+2018-06-29 06:00:38 (2.10 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Freviews%2F&format=xml' saved [2285]
 
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/controller.min.js?ver=2.30.4
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/controller.min.js?ver=2.30.4
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 4001 (3.9K) [application/javascript]
 Server file no newer than local file 'wp-content/plugins/strong-testimonials/public/js/controller.min.js@ver=2.30.4' -- not retrieving.
 
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/validate/jquery.validate.min.js?ver=1.16.0
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/validate/jquery.validate.min.js?ver=1.16.0
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 29641 (29K) [application/javascript]
 Server file no newer than local file 'wp-content/plugins/strong-testimonials/public/js/lib/validate/jquery.validate.min.js@ver=1.16.0' -- not retrieving.
 
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 16598 (16K) [application/javascript]
 Server file no newer than local file 'wp-includes/js/jquery/jquery.form.min.js@ver=4.2.1' -- not retrieving.
 
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/form-validation/form-validation.min.js?ver=2.30.4
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/form-validation/form-validation.min.js?ver=2.30.4
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 4195 (4.1K) [application/javascript]
 Server file no newer than local file 'wp-content/plugins/strong-testimonials/public/js/lib/form-validation/form-validation.min.js@ver=2.30.4' -- not retrieving.
 
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/validate/localization/messages_nl.min.js?ver=4.9.6
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/public/js/lib/validate/localization/messages_nl.min.js?ver=4.9.6
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 1753 (1.7K) [application/javascript]
 Server file no newer than local file 'wp-content/plugins/strong-testimonials/public/js/lib/validate/localization/messages_nl.min.js@ver=4.9.6' -- not retrieving.
 
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/?p=237
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/?p=237
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/over-mij/ [following]
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/over-mij/
+--2018-06-29 06:00:38--  https://senseandsensitivity.nl/over-mij/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=237.html'
 
-     0K .......... .......... .......                           217K=0.1s
+     0K .......... .......... .......                           215K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:37 (217 KB/s) - 'index.html@p=237.html' saved [28012]
+2018-06-29 06:00:39 (215 KB/s) - 'index.html@p=237.html' saved [28012]
 
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/over-mij/
+--2018-06-29 06:00:39--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/over-mij/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:37--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/over-mij/
+--2018-06-29 06:00:39--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/over-mij/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fover-mij%2F'
 
-     0K ..                                                     24.7M=0s
+     0K ..                                                     20.3M=0s
 
-2018-06-28 06:00:38 (24.7 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fover-mij%2F' saved [2208]
+2018-06-29 06:00:39 (20.3 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fover-mij%2F' saved [2208]
 
---2018-06-28 06:00:38--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/over-mij/&format=xml
+--2018-06-29 06:00:39--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/over-mij/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:38--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/over-mij/&format=xml
+--2018-06-29 06:00:40--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/over-mij/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fover-mij%2F&format=xml'
 
-     0K ..                                                     2.07M=0.001s
+     0K ..                                                     25.6M=0s
 
-2018-06-28 06:00:38 (2.07 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fover-mij%2F&format=xml' saved [2290]
+2018-06-29 06:00:40 (25.6 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fover-mij%2F&format=xml' saved [2290]
 
---2018-06-28 06:00:38--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/Josien2_aut-no-logo.jpg
+--2018-06-29 06:00:40--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/Josien2_aut-no-logo.jpg
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 204432 (200K) [image/jpeg]
 Server file no newer than local file 'wp-content/uploads/2018/03/Josien2_aut-no-logo.jpg' -- not retrieving.
 
---2018-06-28 06:00:38--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/Josien2_aut-no-logo-300x200.jpg
+--2018-06-29 06:00:40--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/Josien2_aut-no-logo-300x200.jpg
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 21885 (21K) [image/jpeg]
 Server file no newer than local file 'wp-content/uploads/2018/03/Josien2_aut-no-logo-300x200.jpg' -- not retrieving.
 
---2018-06-28 06:00:38--  https://senseandsensitivity.nl/?p=63
+--2018-06-29 06:00:40--  https://senseandsensitivity.nl/?p=63
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/contact/ [following]
---2018-06-28 06:00:38--  https://senseandsensitivity.nl/contact/
+--2018-06-29 06:00:40--  https://senseandsensitivity.nl/contact/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=63.html'
 
-     0K .......... .......... .....                             201K=0.1s
+     0K .......... .......... .....                             203K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:39 (201 KB/s) - 'index.html@p=63.html' saved [25994]
+2018-06-29 06:00:40 (203 KB/s) - 'index.html@p=63.html' saved [25994]
 
---2018-06-28 06:00:39--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/contact/
+--2018-06-29 06:00:40--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/contact/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:39--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/contact/
+--2018-06-29 06:00:41--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/contact/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcontact%2F'
 
-     0K ..                                                     25.5M=0s
+     0K ..                                                     23.4M=0s
 
-2018-06-28 06:00:39 (25.5 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcontact%2F' saved [2203]
+2018-06-29 06:00:41 (23.4 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcontact%2F' saved [2203]
 
---2018-06-28 06:00:39--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/contact/&format=xml
+--2018-06-29 06:00:41--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/contact/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:40--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/contact/&format=xml
+--2018-06-29 06:00:41--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/contact/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcontact%2F&format=xml'
 
-     0K ..                                                     25.6M=0s
+     0K ..                                                     2.00M=0.001s
 
-2018-06-28 06:00:40 (25.6 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcontact%2F&format=xml' saved [2285]
+2018-06-29 06:00:42 (2.00 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fcontact%2F&format=xml' saved [2285]
 
---2018-06-28 06:00:40--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/IMG_7142-1.jpg
+--2018-06-29 06:00:42--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/IMG_7142-1.jpg
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 633519 (619K) [image/jpeg]
 Server file no newer than local file 'wp-content/uploads/2018/03/IMG_7142-1.jpg' -- not retrieving.
 
---2018-06-28 06:00:40--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/IMG_7142-1-300x225.jpg
+--2018-06-29 06:00:42--  https://senseandsensitivity.nl/wp-content/uploads/2018/03/IMG_7142-1-300x225.jpg
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 18172 (18K) [image/jpeg]
 Server file no newer than local file 'wp-content/uploads/2018/03/IMG_7142-1-300x225.jpg' -- not retrieving.
 
---2018-06-28 06:00:40--  https://senseandsensitivity.nl/?p=331
+--2018-06-29 06:00:42--  https://senseandsensitivity.nl/?p=331
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/algemene-voorwaarden/ [following]
---2018-06-28 06:00:40--  https://senseandsensitivity.nl/algemene-voorwaarden/
+--2018-06-29 06:00:42--  https://senseandsensitivity.nl/algemene-voorwaarden/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'index.html@p=331.html'
 
-     0K .......... .......... .......... .......... ..........  289K
+     0K .......... .......... .......... .......... ..........  288K
     50K ....                                                   7881G=0.2s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:41 (313 KB/s) - 'index.html@p=331.html' saved [55431]
+2018-06-29 06:00:42 (312 KB/s) - 'index.html@p=331.html' saved [55431]
 
---2018-06-28 06:00:41--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/algemene-voorwaarden/
+--2018-06-29 06:00:42--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/algemene-voorwaarden/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:41--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/algemene-voorwaarden/
+--2018-06-29 06:00:43--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/algemene-voorwaarden/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Falgemene-voorwaarden%2F'
 
-     0K ..                                                     22.4M=0s
+     0K ..                                                     23.2M=0s
 
-2018-06-28 06:00:41 (22.4 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Falgemene-voorwaarden%2F' saved [2268]
+2018-06-29 06:00:43 (23.2 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Falgemene-voorwaarden%2F' saved [2268]
 
---2018-06-28 06:00:41--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/algemene-voorwaarden/&format=xml
+--2018-06-29 06:00:43--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/algemene-voorwaarden/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:42--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/algemene-voorwaarden/&format=xml
+--2018-06-29 06:00:43--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/algemene-voorwaarden/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Falgemene-voorwaarden%2F&format=xml'
 
-     0K ..                                                     25.4M=0s
+     0K ..                                                     25.9M=0s
 
-2018-06-28 06:00:42 (25.4 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Falgemene-voorwaarden%2F&format=xml' saved [2350]
+2018-06-29 06:00:43 (25.9 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Falgemene-voorwaarden%2F&format=xml' saved [2350]
 
---2018-06-28 06:00:42--  https://senseandsensitivity.nl/?p=343
+--2018-06-29 06:00:43--  https://senseandsensitivity.nl/?p=343
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: https://senseandsensitivity.nl/privacy-verklaring/ [following]
---2018-06-28 06:00:42--  https://senseandsensitivity.nl/privacy-verklaring/
+--2018-06-29 06:00:44--  https://senseandsensitivity.nl/privacy-verklaring/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
@@ -2507,48 +2507,48 @@ Saving to: 'index.html@p=343.html'
      0K .......... .......... .......... ...                    247K=0.1s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:43 (247 KB/s) - 'index.html@p=343.html' saved [34472]
+2018-06-29 06:00:44 (247 KB/s) - 'index.html@p=343.html' saved [34472]
 
---2018-06-28 06:00:43--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/privacy-verklaring/
+--2018-06-29 06:00:44--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/privacy-verklaring/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:43--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/privacy-verklaring/
+--2018-06-29 06:00:44--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/privacy-verklaring/
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fprivacy-verklaring%2F'
 
-     0K ..                                                     2.22M=0.001s
+     0K ..                                                     25.2M=0s
 
-2018-06-28 06:00:43 (2.22 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fprivacy-verklaring%2F' saved [2258]
+2018-06-29 06:00:45 (25.2 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fprivacy-verklaring%2F' saved [2258]
 
---2018-06-28 06:00:43--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/privacy-verklaring/&format=xml
+--2018-06-29 06:00:45--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/privacy-verklaring/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [application/json]
 Last-modified header missing -- time-stamps turned off.
---2018-06-28 06:00:43--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/privacy-verklaring/&format=xml
+--2018-06-29 06:00:45--  https://senseandsensitivity.nl/wp-json/oembed/1.0/embed?url=https://senseandsensitivity.nl/privacy-verklaring/&format=xml
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/xml]
 Saving to: 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fprivacy-verklaring%2F&format=xml'
 
-     0K ..                                                     26.0M=0s
+     0K ..                                                     23.2M=0s
 
-2018-06-28 06:00:44 (26.0 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fprivacy-verklaring%2F&format=xml' saved [2340]
+2018-06-29 06:00:45 (23.2 MB/s) - 'wp-json/oembed/1.0/embed@url=https%3A%2F%2Fsenseandsensitivity.nl%2Fprivacy-verklaring%2F&format=xml' saved [2340]
 
---2018-06-28 06:00:44--  https://senseandsensitivity.nl/wp-login.php?action=lostpassword
+--2018-06-29 06:00:45--  https://senseandsensitivity.nl/wp-login.php?action=lostpassword
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Saving to: 'wp-login.php@action=lostpassword.html'
 
-     0K ..                                                     27.6M=0s
+     0K ..                                                     26.6M=0s
 
 Last-modified header missing -- time-stamps turned off.
-2018-06-28 06:00:44 (27.6 MB/s) - 'wp-login.php@action=lostpassword.html' saved [2527]
+2018-06-29 06:00:45 (26.6 MB/s) - 'wp-login.php@action=lostpassword.html' saved [2527]
 
 converted 'https://s.w.org' (ANSI_X3.4-1968) -> 'https://s.w.org' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-admin/load-styles.php?c=1&dir=ltr&load%5B%5D=dashicons,buttons,forms,l10n,login&ver=4.9.6' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-admin/load-styles.php?c=1&dir=ltr&load[]=dashicons,buttons,forms,l10n,login&ver=4.9.6' (UTF-8)
@@ -2559,15 +2559,15 @@ converted 'https://nl.wordpress.org/' (ANSI_X3.4-1968) -> 'https://nl.wordpress.
 converted 'https://senseandsensitivity.nl/wp-login.php?action=lostpassword' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-login.php?action=lostpassword' (UTF-8)
 converted 'https://senseandsensitivity.nl/wp-login.php' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/wp-login.php' (UTF-8)
 converted 'https://senseandsensitivity.nl/' (ANSI_X3.4-1968) -> 'https://senseandsensitivity.nl/' (UTF-8)
---2018-06-28 06:00:44--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/sense/img/quotes.png
+--2018-06-29 06:00:45--  https://senseandsensitivity.nl/wp-content/plugins/strong-testimonials/templates/sense/img/quotes.png
 Reusing existing connection to senseandsensitivity.nl:443.
 HTTP request sent, awaiting response... 200 OK
 Length: 640 [image/png]
 Server file no newer than local file 'wp-content/plugins/strong-testimonials/templates/sense/img/quotes.png' -- not retrieving.
 
-FINISHED --2018-06-28 06:00:44--
+FINISHED --2018-06-29 06:00:45--
 Total wall clock time: 43s
-Downloaded: 77 files, 1.2M in 4.3s (290 KB/s)
+Downloaded: 77 files, 1.2M in 4.5s (278 KB/s)
 converted 'http://gmpg.org/xfn/11' (ANSI_X3.4-1968) -> 'http://gmpg.org/xfn/11' (UTF-8)
 converted 'http://microformats.org/profile/specs' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/specs' (UTF-8)
 converted 'http://microformats.org/profile/hatom' (ANSI_X3.4-1968) -> 'http://microformats.org/profile/hatom' (UTF-8)
@@ -7545,8 +7545,8 @@ Converting wp-content/plugins/strong-testimonials/templates/sense/content.css@ve
 Converting wp-content/themes/tiny-framework-child/style.css@ver=2.3.1.css... nothing to do.
 Converting wp-content/plugins/strong-testimonials/public/css/custom.css@ver=4.9.6.css... nothing to do.
 Converted 40 files in 0.2 seconds.
-Thu Jun 28 06:00:44 CEST 2018 $ sed -i s/\&copy 2018 Sense \& Sensitivity/\&copy 2018 Sense \& Sensitivity [Maintenance Mode]/ index.html
-Thu Jun 28 06:00:44 CEST 2018 $ /opt/bin/git config user.email don.hannema@gmail.com
-Thu Jun 28 06:00:44 CEST 2018 $ /opt/bin/git config user.name Don Hannema
-Thu Jun 28 06:00:44 CEST 2018 $ /opt/bin/git add .
-Thu Jun 28 06:00:44 CEST 2018 $ /opt/bin/git commit -a -m Auto commit
+Fri Jun 29 06:00:46 CEST 2018 $ sed -i s/\&copy 2018 Sense \& Sensitivity/\&copy 2018 Sense \& Sensitivity [Maintenance Mode]/ index.html
+Fri Jun 29 06:00:46 CEST 2018 $ /opt/bin/git config user.email don.hannema@gmail.com
+Fri Jun 29 06:00:46 CEST 2018 $ /opt/bin/git config user.name Don Hannema
+Fri Jun 29 06:00:46 CEST 2018 $ /opt/bin/git add .
+Fri Jun 29 06:00:46 CEST 2018 $ /opt/bin/git commit -a -m Auto commit
