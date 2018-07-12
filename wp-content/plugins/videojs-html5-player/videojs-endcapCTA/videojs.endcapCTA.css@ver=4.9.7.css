@@ -1,0 +1,60 @@
+.vjs-endcapCTA {
+  background: #000;
+  background: rgba(0, 0, 0, .7);
+  display: none;
+  height: 100%;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+
+.vjs-endcapCTA.is-active {
+  display: block;
+}
+
+
+#modal {
+  background: #424242;
+  width: 640px;
+  height: 264px;
+  font-family: open sans-serif;
+  opacity: 0.97;
+}
+ 
+#message {
+  font-size: 2.5em;
+  float: left;
+  padding: 6%;
+  text-align: center;
+  color: #c3c3c3;
+}
+ 
+#button1 {
+  display: inline-block;
+  font-size: 1.5em;
+  margin: 0% 0% 0% 21%;
+  padding: 2% 4% 2% 4%;
+  background: #0e61bd;
+  color: white;
+  border: none;
+}
+ 
+#button2 {
+  display: inline-block;
+  font-size: 1.5em;
+  margin: 0% 0% 0% 5%;
+  padding: 2% 4% 2% 4%;
+  background: #02ac90;
+  color: white;
+  border: none;
+}
+ 
+#replay-video {
+  font-size: 1.5em;
+  text-align: center;
+  margin: 5%;
+  color: white;
+}
