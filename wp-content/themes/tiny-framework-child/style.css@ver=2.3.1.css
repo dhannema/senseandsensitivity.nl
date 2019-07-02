@@ -1,7 +1,7 @@
 /*
-Theme Name: Tiny Framework Child Example
+Theme Name: Sense & Sensitivity (tiny-framework-child)
 Theme URI: http://mtomas.com/1/
-Author: Tomas Mackevicius
+Author: dhannema, Tomas Mackevicius
 Author URI: http://mtomas.com/
 Description: Tiny Framework with its child themes was created with the future in mind and encompasses all the best features of the default WordPress themes in one place, adds full accessibility and Structured Data Markup with Schema.org microdata format support. Fast start is ensured with very extensive documentation! Tiny Framework features elegant responsive mobile-first design, HTML5 ready structure of Underscores, custom per-post headers, custom logo, three footer widgets, FontAwesome icon webfont and Google Fonts support. Web developers will enjoy integrated Theme Hook Alliance custom action hooks. It's all there, you have everything in one neat package. Along with the main theme you will find an example of a child theme - an easy way to start developing with child themes! Tiny Framework can be used as a learning tool or your own little web development "framework". With its unique "Coding Tips System" Tiny Framework helps to understand how to extend parent themes and build your own child themes, hacking them the way you want. You get the best coding examples from default WordPress themes and the best hacks from the child theme. Please read readme.txt for a quick start guide, tips and tricks. For more information please see: http://mtomas.com/1/
 Template: tiny-framework
@@ -684,18 +684,29 @@ img.header-image,
 
 /* Alternative heading style to try */
 
-/*
+/* [DON]: Remove spacing before start of article */
+.content-area {
+	margin: 24px 0 0;
+	margin: 0;
+}
+
+/* [DON]: Disable regular title display */
+.entry-header .entry-title {
+	display: none;
+}
+
+/* [DON]: voor post page type deze aangezet */
 .entry-content h1,
 .entry-content h2,
 .entry-summary h1,
 .entry-summary h2,
 .page-content h1,
 .page-content h2 {
-	border-bottom: 3px double #bbb;
+	#border-bottom: 3px double #bbb;
 	margin: 48px 0 24px 0;
 	margin: 3rem 0 1.5rem 0;
 }
-*/
+
 
 /* Tip33 - Enable hyphenation of text for article. Please note that automatic hyphenation can reduce
  * accesibility of the theme - it can cause strange pronunciation with screen readers.
@@ -718,18 +729,23 @@ body .entry-summary-top {
 }
 */
 
+/* [DON] remove folder icon */
+.category .page-title:before {
+	content: "";
+}
+
 /* Tip88 - Customize color scheme: Styles for page titles for categories, tags, etc. */
 
-/*
+
 .page-title {
-	color: #6ba420;
+	color: black;
 	font-size: 27px;
 	font-size: 1.6875rem;
 	font-weight: normal;
 	line-height: 1.4;
 	text-transform: uppercase;
 }
-*/
+
 
 /* Entry-meta for specific post formats */
 
@@ -1038,3 +1054,6 @@ html:lang(lt-LT) .entry-date {
 
 	/* 16.1 Comments */
 }
+
+/* [DON]: added icon for WhatsApp */
+.social-navigation a[href*="whatsapp.com"]:before       { content: "\f232"; color: #20b038; }

@@ -1342,7 +1342,8 @@ body.admin-bar .main-navigation {
 
 /* Tip10 - Add Twenty Thirteen search form to WordPress nav menu */
 .menu-item.menu-item-search {
-	float: right;
+	position: absolute;
+	padding-left: 20px;
 	margin: 4px 0 0 0;
 	margin: 0.25rem 0 0 0;
 }
@@ -1379,10 +1380,10 @@ body.admin-bar .main-navigation {
 	background-color: #f5f5f5;
 	border: 1px solid #bbb;
 	box-shadow: none;
+	font-size: 14px;
 	cursor: text;
 	outline: 0;
-	width: 230px;
-	width: 16.428571429rem;
+	width: 180px; /* [DON] search bar width */
 }
 .site-header .search-form [type="submit"] {
 	display: none;
@@ -2265,6 +2266,29 @@ figure.alignright img[class*="wp-image-"] {
 	margin-top: 0;
 }
 
+
+/* [DON] */
+.has-sense-pink-background-color {
+	background-color: #ec008c;
+}
+#site-title-action-mail {
+	display: none;
+	float: left;
+	font-size: 12px;
+	width: 200px;
+}
+#site-title-action-telefoon {
+	display: none;
+	float: left;
+	font-size: 12px;
+}
+#site-title-action-afspraak {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 25px 0 0;
+	float: right;
+}
+
 /* Tip14 - Custom logo feature support. Check: inc/template-tags.php for more details. */
 .site-logo-link, /* deprecated */
 .custom-logo-link {
@@ -2318,12 +2342,12 @@ body {
 }
 .site {
 	background-color: #fff;
-	padding: 0 24px;
-	padding: 0 1.5rem;
+	/*padding: 0 24px;
+	padding: 0 1.5rem;*/
 }
 .content-area {
-	margin: 24px 0 0;
-	margin: 1.5rem 0 0;
+/*	margin: 24px 0 0;
+	margin: 1.5rem 0 0;*/
 }
 
 /* 11.1 Posts and pages */
@@ -3390,8 +3414,8 @@ a.comment-reply-link:hover {
 	font-size: 0.8125rem;
 	margin: 5px auto 0 auto;
 	margin: 0.3125rem auto 0 auto;
-	max-width: 960px;
-	max-width: 60rem;
+	/*max-width: 960px;
+	max-width: 60rem;*/
 	padding: 0 0 29px 0;
 	padding: 0 0 1.8125rem 0;
 }
@@ -3577,6 +3601,12 @@ img.wp-post-image,
 .post-thumbnail img {
 	height: auto; /* Make sure images with WordPress-added height and width attributes are scaled correctly */
 	max-width: 100%;
+
+    /* [DON] */
+    margin: 0px;
+	width: 100%;
+    max-height: 300px; /* banner height */
+    object-fit: cover; 
 }
 /* Hide post thumbnail (Featured Image) */
 .post-thumbnail {
@@ -3605,8 +3635,8 @@ img.header-image,
 img.wp-post-image,
 .widget img {
 	/* Add fancy borders to all WordPress-added images but not things like badges and icons and the like */
-	border-radius: 3px;
-	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+	/*border-radius: 3px;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);*/
 }
 .avatar { /* to fix cutt-off border shadow */
 	margin: 0 0 4px 4px;
@@ -4047,6 +4077,13 @@ img.no-border {
 /* 15.0b Maximum width of 782 pixels - it only affects the mobile view.
  */
 @media screen and (max-width: 782px) {
+	#site-title-action-afspraak {
+		display: none;
+	}
+	img.custom-logo.attachment-full.size-full {
+	    margin: 0 0 25px 0;
+	}
+
 	/* Make scrollable long menu that extends over the screen limits */
 	.main-navigation.toggled {
 	  background-color: #3a3a3a;
@@ -4113,6 +4150,22 @@ img.no-border {
 		background: #117bb8;
 	}
 } /* END of @media screen and (max-width: 782px) */
+
+/* [DON] */
+a.custom-logo-link.site-logo-link {
+	margin: 0 0 0 0;
+}
+footer#colophon.site-footer, p#breadcrumbs, div#content.site-content {
+	margin-top: 0px;
+	margin-top: 0rem;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+div.site-branding {
+	margin-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
 
 /* 15.0c - Maximum width of 320 pixels - it only affects the mobile view
  */
@@ -4186,8 +4239,10 @@ img.no-border {
 	.custom-logo-link {
 		display: block;
 		float: left;
-		margin: 24px 24px 0 0;
-		margin: 1.5rem 1.5rem 0 0;
+		margin: 0px;
+		margin: 0rem;
+		/*margin: 24px 24px 0 0;
+		margin: 1.5rem 1.5rem 0 0;*/
 	}
 	.custom-logo {
 
@@ -4243,11 +4298,13 @@ img.no-border {
 	}
 	.main-navigation div.nav-menu > ul,
 	.main-navigation ul.nav-menu {
-		border-bottom: 1px solid #bbb;
-		border-top: 1px solid #bbb;
+		/*border-bottom: 1px solid #bbb;
+		border-top: 1px solid #bbb;*/
+		padding-left: 20px;
 		display: inline-block !important;
 		text-align: left;
 		width: 100%;
+		background-color: #f099c1; /* [DON], nav bar background */
 	}
 	.main-navigation ul.nav-menu  {
 		text-align: left;
@@ -4257,7 +4314,7 @@ img.no-border {
 	}
 	/* Adding shadow for the drop down menu items */
 	.main-navigation ul.nav-menu ul.sub-menu li {
-		box-shadow: 3px 3px 5px rgba(100, 100, 100, 0.3);
+		/*box-shadow: 3px 3px 5px rgba(100, 100, 100, 0.3);*/
 	}
 	.main-navigation ul {
 		margin: 0;
@@ -4270,24 +4327,33 @@ img.no-border {
 	}
 	.main-navigation li a {
 		border-bottom: 0;
-		color: #6a6a6a;
+		/*color: #6a6a6a;*/
+		color: black;
 		line-height: 3.692307692;
 		text-transform: uppercase;
 		white-space: nowrap;
+
+		/* [DON] */
+		padding: 0 10px;
+		padding: 0 0.625rem;
 	}
 	.main-navigation li a:focus,
 	.main-navigation li a:hover {
-		color: #000;
+		/*color: #000;
 		outline: none;
-		text-decoration: underline;
+		text-decoration: underline;*/
+		background-color: #ec008c; /* [DON], hover over main nav item */
+		color: white;
 	}
 	.main-navigation li {
 		font-size: 12px;
 		font-size: 0.75rem;
 		line-height: 1.42857143;
-		margin: 0 40px 0 0;
-		margin: 0 2.5rem 0 0;
+		/*margin: 0 40px 0 0;
+		margin: 0 2.5rem 0 0;*/
 		position: relative;
+		color: white;
+		background-color: #f099c1; /* [DON] main item, niet actief en niet hover */
 	}
 	.main-navigation li ul {
 		clip: rect(1px, 1px, 1px, 1px);
@@ -4315,7 +4381,7 @@ img.no-border {
 	}
 	.main-navigation li ul li a {
 		background: #efefef;
-		border-bottom: 1px solid #ededed;
+		/*border-bottom: 1px solid #ededed;*/
 		display: block;
 		font-size: 11px;
 		font-size: 0.6875rem;
@@ -4325,11 +4391,14 @@ img.no-border {
 		white-space: normal;
 		width: 200px;
 		width: 14.285714286rem;
+		background-color: white; /* [DON] sub nav item, niet actief en niet hover */
 	}
 	.main-navigation li ul li a:focus,
 	.main-navigation li ul li a:hover {
 		background: #e3e3e3;
-		color: #444;
+		/*color: #444;*/
+		color: white;
+		background-color: #ec008c; /* [DON] sub nav item, niet actief, wel hover */
 	}
 	.main-navigation ul li ul li,
 	.main-navigation ul li ul li ul li {
@@ -4343,8 +4412,10 @@ img.no-border {
 	.main-navigation .current-menu-item > a,
 	.main-navigation .current_page_ancestor > a,
 	.main-navigation .current_page_item > a {
-		color: #636363;
-		font-weight: bold;
+		color: white;
+		/*color: #636363;
+		font-weight: bold;*/
+		background-color: #ec008c; /* [DON] actief nav/sub nav item */
 	}
 	.main-navigation .menu-toggle,
 	.main-navigation.toggled .nav-menu {
@@ -4535,13 +4606,13 @@ img.no-border {
 		background-color: #e6e6e6;
 	}
 	body .site {
-		box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+		/*box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
 		margin-bottom: 48px;
 		margin-bottom: 3rem;
 		margin-top: 24px;
-		margin-top: 1.5rem;
-		padding: 12px 40px 0 40px;
-		padding: 0.75rem 2.5rem 0 2.5rem;
+		margin-top: 1.5rem;*/
+		/*padding: 12px 40px 0 40px;
+		padding: 0.75rem 2.5rem 0 2.5rem;*/
 	}
 	body.custom-background-empty {
 		background-color: #fff;
@@ -4624,6 +4695,9 @@ img.no-border {
 		margin-bottom: 48px;
 		margin-bottom: 3rem;
 		text-align: left;
+	}
+	.anchorlink, #site-title-action-afspraak {
+		display: none;
 	}
 	.site-header .site-title {
 		font-size: 21pt;
