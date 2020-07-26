@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Inloggen &lsaquo; Sense &amp; Sensitivity &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='https://s.w.org/' />
-<link rel='stylesheet' id='dashicons-css'  href='wp-includes/css/dashicons.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='wp-includes/css/buttons.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='https://senseandsensitivity.nl/wp-admin/css/forms.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='https://senseandsensitivity.nl/wp-admin/css/l10n.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='https://senseandsensitivity.nl/wp-admin/css/login.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='wp-includes/css/dashicons.min.css@ver=5.4.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='wp-includes/css/buttons.min.css@ver=5.4.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://senseandsensitivity.nl/wp-admin/css/forms.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://senseandsensitivity.nl/wp-admin/css/l10n.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://senseandsensitivity.nl/wp-admin/css/login.min.css?ver=5.4.2' type='text/css' media='all' />
 <link rel="apple-touch-icon" sizes="180x180" href="wp-content/uploads/fbrfg/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="wp-content/uploads/fbrfg/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="wp-content/uploads/fbrfg/favicon-16x16.png">
@@ -27,23 +27,32 @@
 		<meta name="viewport" content="width=device-width" />
 	<link rel="icon" href="wp-content/uploads/2018/03/cropped-1-01-1-32x32.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2018/03/cropped-1-01-1-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2018/03/cropped-1-01-1-180x180.png" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2018/03/cropped-1-01-1-180x180.png" />
 <meta name="msapplication-TileImage" content="https://senseandsensitivity.nl/wp-content/uploads/2018/03/cropped-1-01-1-270x270.png" />
 	</head>
-	<body class="login login-action-login wp-core-ui  locale-nl-nl">
+	<body class="login no-js login-action-login wp-core-ui  locale-nl-nl">
+	<script type="text/javascript">
+		document.body.className = document.body.className.replace('no-js','js');
+	</script>
 		<div id="login">
 		<h1><a href="https://nl.wordpress.org/">Mogelijk gemaakt door WordPress</a></h1>
 	
-	<form name="loginform" id="loginform" action="wp-login.php.html" method="post">
-	<p>
-		<label for="user_login">Gebruikersnaam of e-mailadres<br />
-		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
-	</p>
-	<p>
-		<label for="user_pass">Wachtwoord<br />
-		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
-	</p>
-					<style type="text/css" media="screen">
+		<form name="loginform" id="loginform" action="wp-login.php.html" method="post">
+			<p>
+				<label for="user_login">Gebruikersnaam of e-mailadres</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" />
+			</p>
+
+			<div class="user-pass-wrap">
+				<label for="user_pass">Wachtwoord</label>
+				<div class="wp-pwd">
+					<input type="password" name="pwd" id="user_pass" class="input password-input" value="" size="20" />
+					<button type="button" class="button button-secondary wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Wachtwoord tonen">
+						<span class="dashicons dashicons-visibility" aria-hidden="true"></span>
+					</button>
+				</div>
+			</div>
+						<style type="text/css" media="screen">
 				.login-action-login #loginform,
 				.login-action-lostpassword #lostpasswordform,
 				.login-action-register #registerform {
@@ -59,55 +68,59 @@
 					margin-bottom: 10px;
 				}
 			</style>
-		<div class="gglcptch gglcptch_v3"><input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response"> <script src="https://www.google.com/recaptcha/api.js?render=6Lc0lL0UAAAAALu0SDfZvRM4fTnf0y3GtnGPWTMl"></script>
-                            <script>
-                              grecaptcha.ready(function() {
-                                  grecaptcha.execute('6Lc0lL0UAAAAALu0SDfZvRM4fTnf0y3GtnGPWTMl', {action: 'BWS_reCaptcha'}).then(function(token) {
-                                    document.querySelectorAll( "#g-recaptcha-response" ).forEach( elem => ( elem.value = token ) );
-                                  });
-                              });
-                             </script></div>	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Onthoud mij</label></p>
-	<p class="submit">
-		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Inloggen" />
-				<input type="hidden" name="redirect_to" value="https://senseandsensitivity.nl/wp-admin/" />
-					<input type="hidden" name="testcookie" value="1" />
-	</p>
-	</form>
+		<div class="gglcptch gglcptch_v3"><input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response" /></div>			<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Onthoud mij</label></p>
+			<p class="submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Inloggen" />
+									<input type="hidden" name="redirect_to" value="https://senseandsensitivity.nl/wp-admin/" />
+									<input type="hidden" name="testcookie" value="1" />
+			</p>
+		</form>
 
-			<p id="nav">
-					<a href="wp-login.php@action=lostpassword.html">Wachtwoord vergeten?</a>
-				</p>
-	
-	<script type="text/javascript">
-	function wp_attempt_focus(){
-	setTimeout( function(){ try{
-			d = document.getElementById('user_login');
-				d.focus();
-	d.select();
-	} catch(e){}
-	}, 200);
-	}
-
-			wp_attempt_focus();
-			if(typeof wpOnload=='function')wpOnload();
-			</script>
-
-			<p id="backtoblog"><a href="index.html@nonamp=1.html">
-		&larr; Terug naar Sense &amp; Sensitivity	</a></p>
-			
-	</div>
-
-	
-	<link rel='stylesheet' id='gglcptch-css'  href='wp-content/plugins/google-captcha/css/gglcptch.css' type='text/css' media='all' />
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'></script>
+					<p id="nav">
+									<a href="wp-login.php@action=lostpassword.html">Wachtwoord vergeten?</a>
+								</p>
+					<script type="text/javascript">
+			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
+wp_attempt_focus();
+if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
+				<p id="backtoblog"><a href="index.html@nonamp=1.html">
+		&larr; Terug naar Sense &amp; Sensitivity		</a></p>
+			</div>
+	<link rel='stylesheet' id='gglcptch-css'  href='wp-content/plugins/google-captcha/css/gglcptch.css@ver=1.57.css' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js@ver=1.12.4-wp'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js@ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/senseandsensitivity.nl\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-includes/js/zxcvbn-async.min.js@ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Sterkte wachtwoord onbekend","short":"Erg zwak","bad":"Zwak","good":"Gemiddeld","strong":"Sterk","mismatch":"Verkeerde combinatie"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://senseandsensitivity.nl/wp-admin/js/password-strength-meter.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='wp-includes/js/underscore.min.js@ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-includes/js/wp-util.min.js@ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userProfileL10n = {"warn":"Je nieuwe wachtwoord is niet opgeslagen.","warnWeak":"Bevestig het gebruik van een zwak wachtwoord","show":"Tonen","hide":"Verbergen","cancel":"Annuleren","ariaShow":"Wachtwoord tonen","ariaHide":"Wachtwoord verbergen"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://senseandsensitivity.nl/wp-admin/js/user-profile.min.js?ver=5.4.2'></script>
 <script type='text/javascript' data-cfasync="false" async="async" defer="defer" src='https://www.google.com/recaptcha/api.js?render=6Lc0lL0UAAAAALu0SDfZvRM4fTnf0y3GtnGPWTMl'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var gglcptch = {"options":{"version":"v3","sitekey":"6Lc0lL0UAAAAALu0SDfZvRM4fTnf0y3GtnGPWTMl","theme":"red","error":"<strong>Warning<\/strong>:&nbsp;More than one reCAPTCHA has been found in the current form. Please remove all unnecessary reCAPTCHA fields to make it work properly.","disable":0},"vars":{"visibility":true}};
+var gglcptch = {"options":{"version":"v3","sitekey":"6Lc0lL0UAAAAALu0SDfZvRM4fTnf0y3GtnGPWTMl","error":"<strong>Warning<\/strong>:&nbsp;More than one reCAPTCHA has been found in the current form. Please remove all unnecessary reCAPTCHA fields to make it work properly.","disable":0},"vars":{"visibility":true}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/google-captcha/js/script.js'></script>
+<script type='text/javascript' src='wp-content/plugins/google-captcha/js/script.js@ver=1.57'></script>
 	<div class="clear"></div>
 	</body>
 	</html>
